@@ -1,4 +1,4 @@
-This is the original code for the ICML2023 submission *Conservative State Value Estimation for Offline Reinforcement Learning*.
+This is the original code for the *Conservative State Value Estimation for Offline Reinforcement Learning*.
 We largely follow the implementaion in [d3rlpy](https://github.com/takuseno/d3rlpy/commit/1ac85b9955408b5e3e9f67ec6592828d8021885b).
 
 ## Installation
